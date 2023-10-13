@@ -15,8 +15,13 @@ import com.smhrd.bigdata.service.BoardService;
 
 @Controller
 public class MainController {
+
 	
 	// main 변경
+
+	// 이 주석이 보이시나요...?
+	// 주석 
+
 	@Autowired
 	BoardService service;
 	
